@@ -28,7 +28,7 @@ FinSight AI holds a current SOC 2 Type II report covering the Security trust ser
 
 FinSight AI does not use customer data to train, fine-tune, or otherwise improve AI models (including any foundation models provided by third-party subprocessors). This restriction applies by default and is not a configurable setting.
 
-This commitment is reflected in our Data Processing Agreement (DPA), which explicitly prohibits use of customer data for model training purposes. Our primary model subprocessor operates under a separate data processing agreement containing equivalent restrictions. Where customer data is transferred from the EEA to a jurisdiction without an adequacy decision, the DPA incorporates Standard Contractual Clauses and supporting technical and organizational measures.
+This commitment is reflected in our Data Processing Agreement (DPA), which explicitly prohibits use of customer data for model training purposes. Our primary model subprocessor operates under a separate data processing agreement containing equivalent restrictions. Where customer data is transferred from the European Economic Area (EEA) to a jurisdiction without an adequacy decision, the DPA incorporates Standard Contractual Clauses and supporting technical and organizational measures.
 
 Customer data (including prompts, uploaded documents, and AI-generated outputs) is retained for the duration of the customer relationship and deleted within 30 days of contract termination or upon written request.
 
