@@ -11,7 +11,7 @@ Banks are regulated institutions, so they need to understand the risks introduce
 - `README.md`: Project overview and context
 - `security-questionnaire-response-pack.md`: Five representative diligence responses covering baseline assurance, AI data use, internal access, tenant isolation, and AI governance
 - `control-theme-mapping.md`: Lightweight mapping table connecting questionnaire areas to relevant frameworks and evidence artifacts
-- `evidence-checklist.md`: Practical checklist of artifacts an AI vendor should prepare for bank diligence, organized by area and internal owner
+- `evidence-checklist.md`: Practical checklist of representative artifacts an AI vendor may prepare for bank diligence, organized by area and internal owner
 
 ## Development process
 
