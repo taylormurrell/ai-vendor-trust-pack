@@ -4,17 +4,14 @@ This project is a sample security questionnaire response pack for a fictional AI
 
 ## Why banks ask detailed security and AI governance questions
 
-Banks are regulated entities. Their regulators -- including the OCC, FDIC, Federal Reserve, PRA, and ECB SSM -- require them to assess and manage the risk posed by third-party vendors before onboarding them. This requirement applies to all software vendors. For AI vendors, the diligence scope extends beyond standard security questions into areas that most banks are still developing internal playbooks for: whether customer data is used to train AI models, how tenant isolation is enforced at the AI layer, how model outputs are logged for audit and regulatory purposes, whether the product is classified appropriately under frameworks like the EU AI Act, and what controls exist to prevent AI-specific attacks like prompt injection. A bank that cannot answer these questions to its regulator's satisfaction has a vendor risk problem. A vendor that cannot answer them clearly has a deal problem.
+Banks are regulated entities. Their regulators (the OCC, FDIC, Federal Reserve, PRA, and ECB SSM) require them to assess and manage the risk posed by third-party vendors before onboarding them. This requirement applies to all software vendors. For AI vendors, the diligence scope extends beyond standard security questions into areas that most banks are still developing internal playbooks for: whether customer data is used to train AI models, how tenant isolation is enforced at the AI layer, how model outputs are logged for audit and regulatory purposes, whether the product is classified appropriately under frameworks like the EU AI Act, and what controls exist to prevent AI-specific attacks like prompt injection. A bank that cannot answer these questions to its regulator's satisfaction has a vendor risk problem. A vendor that cannot answer them clearly has a deal problem.
 
 ## What is included
 
-- `README.md` -- Project overview and context
-- `security-questionnaire-response-pack.md` -- 25 bank diligence questions with sample responses, trust themes, and evidence expectations
-- `control-theme-mapping.md` -- Lightweight mapping table connecting questionnaire areas to relevant frameworks and evidence artifacts
-- `evidence-checklist.md` -- Practical checklist of artifacts an AI vendor should prepare for bank diligence, organized by area and internal owner
-- `substack-draft.md` -- A 900-to-1,200-word post on what banks really want to know before trusting an AI finance vendor
-- `notes/learning-notes.md` -- Concise notes on the concepts covered across the project, including key terms for interviews
-- `notes/interview-talking-points.md` -- Talking points, sample answers, and plain-English definitions for interview preparation
+- `README.md`: Project overview and context
+- `security-questionnaire-response-pack.md`: 25 bank diligence questions with sample responses, trust themes, and evidence expectations
+- `control-theme-mapping.md`: Lightweight mapping table connecting questionnaire areas to relevant frameworks and evidence artifacts
+- `evidence-checklist.md`: Practical checklist of artifacts an AI vendor should prepare for bank diligence, organized by area and internal owner
 
 ## Disclaimer
 
